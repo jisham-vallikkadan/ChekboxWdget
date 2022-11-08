@@ -10,7 +10,7 @@ class Checkboxusinglsit extends StatefulWidget {
 }
 
 class _CheckboxusinglsitState extends State<Checkboxusinglsit> {
-  var checkboxselected = [false, false, false, false];
+    var checkboxselected = [false, false, false, false];
   @override
   Widget build(BuildContext context) {
     return Scaffold(
